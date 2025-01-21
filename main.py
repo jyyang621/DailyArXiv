@@ -47,6 +47,7 @@ def main():
     #     sys.exit("Already updated today!")  
 
     keywords = ["RAG", "LLM", "SFT", "Fine-tune", "RLHF"]  
+    print(keywords)
     max_result = 100  
     issues_result = 15  
     column_names = ["Title", "Link", "Abstract", "Date", "Comment"]  
