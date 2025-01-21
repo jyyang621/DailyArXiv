@@ -12,7 +12,8 @@ You can click the 'Watch' button to receive daily email notifications.
 Last update: 2025-01-21
 
 ## RAG
-
+| **Title** | **Date** | **Abstract** | **Comment** |
+| --- | --- | --- | --- |
 ## LLM
 
 ## SFT
