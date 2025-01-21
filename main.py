@@ -39,6 +39,7 @@ def exponential_backoff(attempt, base_delay=5):
     time.sleep(delay)  
 
 def main():  
+    print("Hello there!")
     beijing_timezone = pytz.timezone('Asia/Shanghai')  
     current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")  
     last_update_date = read_last_update_date()  
