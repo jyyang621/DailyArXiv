@@ -96,3 +96,29 @@ labels: documentation
 | **[LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation](http://arxiv.org/abs/2409.20550v2)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
 | **[Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](http://arxiv.org/abs/2402.18540v2)** | 2025-01-17 | NeurIPS 2024 |
 
+## Function Call
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](http://arxiv.org/abs/2501.10132v1)** | 2025-01-17 |  |
+| **[A General Framework for Inference-time Scaling and Steering of Diffusion Models](http://arxiv.org/abs/2501.06848v3)** | 2025-01-16 |  |
+| **[OptiChat: Bridging Optimization Models and Practitioners with Large Language Models](http://arxiv.org/abs/2501.08406v1)** | 2025-01-14 |  |
+| **[Data-driven system identification using quadratic embeddings of nonlinear dynamics](http://arxiv.org/abs/2501.08202v1)** | 2025-01-14 |  |
+| **[CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models](http://arxiv.org/abs/2501.05255v1)** | 2025-01-09 |  |
+| **[ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use](http://arxiv.org/abs/2501.02506v2)** | 2025-01-07 |  |
+| **[Optimizing Small Language Models for In-Vehicle Function-Calling](http://arxiv.org/abs/2501.02342v1)** | 2025-01-04 |  |
+| **[SR-Reward: Taking The Path More Traveled](http://arxiv.org/abs/2501.02330v1)** | 2025-01-04 |  |
+| **[ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback](http://arxiv.org/abs/2412.17754v2)** | 2024-12-25 |  |
+| **[PrettiSmart: Visual Interpretation of Smart Contracts via Simulation](http://arxiv.org/abs/2412.18484v1)** | 2024-12-24 |  |
+| **[The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](http://arxiv.org/abs/2407.17915v4)** | 2024-12-24 |  |
+| **[Silencer: Robust Community Detection by Silencing of Noisy Pixels](http://arxiv.org/abs/2412.17412v1)** | 2024-12-23 |  |
+| **[HammerBench: Fine-Grained Function-Calling Evaluation in Real Mobile Device Scenarios](http://arxiv.org/abs/2412.16516v1)** | 2024-12-21 |  |
+| **[Adaptable and Precise: Enterprise-Scenario LLM Function-Calling Capability Training Pipeline](http://arxiv.org/abs/2412.15660v1)** | 2024-12-20 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 7 tables</p></details> |
+| **[Stack Trace Deduplication: Faster, More Accurately, and in More Realistic Scenarios](http://arxiv.org/abs/2412.14802v1)** | 2024-12-19 | <details><summary>Publi...</summary><p>Published at SANER'25. 11 pages, 2 figures</p></details> |
+
+## LLM Tabular
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models](http://arxiv.org/abs/2404.06209v3)** | 2024-12-04 | <details><summary>COLM ...</summary><p>COLM camera ready, fix typo</p></details> |
+| **[LLM Embeddings Improve Test-time Adaptation to Tabular $Y|X$-Shifts](http://arxiv.org/abs/2410.07395v1)** | 2024-10-09 |  |
+| **[Elephants Never Forget: Testing Language Models for Memorization of Tabular Data](http://arxiv.org/abs/2403.06644v1)** | 2024-03-11 | <details><summary>Table...</summary><p>Table Representation Learning Workshop at NeurIPS 2023</p></details> |
+
