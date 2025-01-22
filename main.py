@@ -21,7 +21,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["RAG", "LLM", "SFT", "RLHF"]  # TODO add more keywords
+keywords = ["RAG", "Agent", "SFT", "RLHF", "LLM"]  # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
