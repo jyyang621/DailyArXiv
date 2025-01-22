@@ -20,9 +20,6 @@ Last update: 2025-01-20
 ## SFT
 | **Title** | **Date** | **Abstract** | **Comment** |
 | --- | --- | --- | --- |
-## Fine-tune
-| **Title** | **Date** | **Abstract** | **Comment** |
-| --- | --- | --- | --- |
 ## RLHF
 | **Title** | **Date** | **Abstract** | **Comment** |
 | --- | --- | --- | --- |
