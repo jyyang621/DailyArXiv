@@ -46,7 +46,7 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR
         papers.append(paper)
     return papers
 
-def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "stat"]) -> List[Dict[str, str]]:
+def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "ai"]) -> List[Dict[str, str]]:
     # filtering tags: only keep the papers in target_fileds
     results = []
     for paper in papers:
@@ -63,7 +63,7 @@ def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[st
         if len(papers) > 0: return papers
         else:
             print("Unexpected empty list, retrying...")
-            time.sleep(60 * 30) # wait for 30 minutes
+            time.sleep(60 * 5) # wait for 30 minutes
     # failed
     return None
 
