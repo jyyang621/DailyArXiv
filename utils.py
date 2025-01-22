@@ -64,7 +64,7 @@ def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[st
         if len(papers) > 0: return papers
         else:
             print("Unexpected empty list, retrying...")
-            time.sleep(60 * 5) # wait for 30 minutes
+            time.sleep(60 * 1) # wait for 30 minutes
     # failed
     return None
 
