@@ -5,7 +5,7 @@ on:
     types:  
       - created # for test  
   schedule:  
-      - cron: '10 9 * * 0-4' # 16:50 Beijing time every Monday to Friday
+      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
   workflow_dispatch: # 添加手动触发选项，无需任何配置 
 
 permissions:
