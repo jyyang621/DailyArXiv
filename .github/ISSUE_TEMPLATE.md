@@ -13,9 +13,6 @@ labels: documentation
 ## SFT
 | **Title** | **Date** | **Abstract** | **Comment** |
 | --- | --- | --- | --- |
-## Fine-tune
-| **Title** | **Date** | **Abstract** | **Comment** |
-| --- | --- | --- | --- |
 ## RLHF
 | **Title** | **Date** | **Abstract** | **Comment** |
 | --- | --- | --- | --- |
