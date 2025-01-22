@@ -1,4 +1,3 @@
-print("Hello World")
 import sys
 import time
 import pytz
@@ -7,7 +6,6 @@ from datetime import datetime
 from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
     restore_files, remove_backups, get_daily_date
 
-print("Hello World")
 beijing_timezone = pytz.timezone('Asia/Shanghai')
 
 # NOTE: arXiv API seems to sometimes return an unexpected empty list.
