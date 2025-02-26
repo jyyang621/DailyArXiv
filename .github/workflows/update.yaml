@@ -40,7 +40,7 @@ jobs:
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
         name: jyyang621
-        # email: 80863484@qq.com
+        # email: example@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
