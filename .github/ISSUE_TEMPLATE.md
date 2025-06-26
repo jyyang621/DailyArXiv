@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jyyang621/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CCRS: A Zero-Shot LLM-as-a-Judge Framework for Comprehensive RAG Evaluation](http://arxiv.org/abs/2506.20128v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted at LLM4Eval @ SIGIR 2025</p></details> |
+| **[Controlled Retrieval-augmented Context Evaluation for Long-form RAG](http://arxiv.org/abs/2506.20051v1)** | 2025-06-24 |  |
 | **[T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent](http://arxiv.org/abs/2506.18559v1)** | 2025-06-23 |  |
 | **[Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance](http://arxiv.org/abs/2506.18511v1)** | 2025-06-23 |  |
 | **[PreQRAG -- Classify and Rewrite for Enhanced RAG](http://arxiv.org/abs/2506.17493v1)** | 2025-06-20 | <details><summary>7 pag...</summary><p>7 pages, SIGIR 2025 LiveRAG</p></details> |
@@ -20,27 +22,25 @@ labels: documentation
 | **[RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](http://arxiv.org/abs/2506.14412v1)** | 2025-06-17 | <details><summary>4 pag...</summary><p>4 pages, 5 figures. Report for SIGIR 2025 LiveRAG Challenge</p></details> |
 | **[Personalizing Student-Agent Interactions Using Log-Contextualized Retrieval Augmented Generation (RAG)](http://arxiv.org/abs/2505.17238v2)** | 2025-06-17 | <details><summary>To ap...</summary><p>To appear in the International Conference on Artificial Intelligence in Education (AIED25) Workshop on Epistemics and Decision-Making in AI-Supported Education</p></details> |
 | **[Lightweight Relevance Grader in RAG](http://arxiv.org/abs/2506.14084v1)** | 2025-06-17 |  |
-| **[Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants](http://arxiv.org/abs/2506.07042v2)** | 2025-06-15 |  |
-| **[DoTA-RAG: Dynamic of Thought Aggregation RAG](http://arxiv.org/abs/2506.12571v1)** | 2025-06-14 | <details><summary>SIGIR...</summary><p>SIGIR LiveRAG 2025 (oral presentation)</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning](http://arxiv.org/abs/2506.19846v1)** | 2025-06-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, under review</p></details> |
-| **[MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](http://arxiv.org/abs/2506.19835v1)** | 2025-06-24 | ACL 2025 Findings |
-| **[From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking](http://arxiv.org/abs/2506.19724v1)** | 2025-06-24 |  |
-| **[A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures](http://arxiv.org/abs/2506.19676v1)** | 2025-06-24 |  |
-| **[Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning](http://arxiv.org/abs/2506.19592v1)** | 2025-06-24 |  |
-| **[Towards Unsupervised Multi-Agent Reinforcement Learning via Task-Agnostic Exploration](http://arxiv.org/abs/2502.08365v3)** | 2025-06-24 |  |
-| **[MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications](http://arxiv.org/abs/2506.19502v1)** | 2025-06-24 |  |
-| **[Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story](http://arxiv.org/abs/2505.01336v2)** | 2025-06-24 |  |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
-| **[Agent-Based Triangle Counting: Unlocking Truss Decomposition, Triangle Centrality, and Local Clustering Coefficient](http://arxiv.org/abs/2402.03653v2)** | 2025-06-24 |  |
-| **[Center of Gravity-Guided Focusing Influence Mechanism for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2506.19417v1)** | 2025-06-24 | <details><summary>9 tec...</summary><p>9 technical page followed by references and appendix</p></details> |
-| **[Computing Tree Structures in Anonymous Graphs via Mobile Agents](http://arxiv.org/abs/2506.19365v1)** | 2025-06-24 |  |
-| **[PBFT-Backed Semantic Voting for Multi-Agent Memory Pruning](http://arxiv.org/abs/2506.17338v2)** | 2025-06-24 | 13 pages |
-| **[MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](http://arxiv.org/abs/2506.01056v4)** | 2025-06-24 |  |
-| **[Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems](http://arxiv.org/abs/2505.04799v2)** | 2025-06-24 |  |
+| **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](http://arxiv.org/abs/2506.20664v1)** | 2025-06-25 | 41 pages, 19 figures |
+| **[Towards Community-Driven Agents for Machine Learning Engineering](http://arxiv.org/abs/2506.20640v1)** | 2025-06-25 |  |
+| **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](http://arxiv.org/abs/2506.20606v1)** | 2025-06-25 | <details><summary>Main ...</summary><p>Main paper: 9 pages; total: 18 pages (including appendix). Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
+| **[Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges](http://arxiv.org/abs/2506.20598v1)** | 2025-06-25 |  |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](http://arxiv.org/abs/2506.20430v1)** | 2025-06-25 |  |
+| **[SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models](http://arxiv.org/abs/2506.20415v1)** | 2025-06-25 |  |
+| **[A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem](http://arxiv.org/abs/2506.20400v1)** | 2025-06-25 |  |
+| **[Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards](http://arxiv.org/abs/2506.20332v1)** | 2025-06-25 | 14 pages, 12 figures |
+| **[$C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking](http://arxiv.org/abs/2505.18746v3)** | 2025-06-25 |  |
+| **[AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement](http://arxiv.org/abs/2502.00757v3)** | 2025-06-25 |  |
+| **[Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments](http://arxiv.org/abs/2506.13205v3)** | 2025-06-25 | 12 pages |
+| **[From Conversation to Orchestration: HCI Challenges and Opportunities in Interactive Multi-Agentic Systems](http://arxiv.org/abs/2506.20091v1)** | 2025-06-25 |  |
+| **[Beyond Autocomplete: Designing CopilotLens Towards Transparent and Explainable AI Coding Agents](http://arxiv.org/abs/2506.20062v1)** | 2025-06-24 |  |
+| **[Learning Bilateral Team Formation in Cooperative Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2506.20039v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted to the 2nd Coordination and Cooperation in Multi-Agent Reinforcement Learning (CoCoMARL) Workshop at RLC 2025</p></details> |
 
 ## SFT
 | **Title** | **Date** | **Comment** |
@@ -83,21 +83,21 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning](http://arxiv.org/abs/2506.19846v1)** | 2025-06-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, under review</p></details> |
-| **[LLM-Based Social Simulations Require a Boundary](http://arxiv.org/abs/2506.19806v1)** | 2025-06-24 |  |
-| **[Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study](http://arxiv.org/abs/2506.19794v1)** | 2025-06-24 | Work in progress |
-| **[Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ingénieurs du Québec (OIQ)](http://arxiv.org/abs/2506.19775v1)** | 2025-06-24 | <details><summary>22 pa...</summary><p>22 pages, accepted at the American Society of Engineering Education annual conference 2025, pre-print</p></details> |
-| **[DecDEC: A Systems Approach to Advancing Low-Bit LLM Quantization](http://arxiv.org/abs/2412.20185v2)** | 2025-06-24 | OSDI 2025 |
-| **["I know myself better, but not really greatly": How Well Can LLMs Detect and Explain LLM-Generated Texts?](http://arxiv.org/abs/2502.12743v2)** | 2025-06-24 | Under review |
-| **[LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis](http://arxiv.org/abs/2506.19702v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2025</p></details> |
-| **[HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](http://arxiv.org/abs/2506.15196v2)** | 2025-06-24 | 27 pages,9 figures |
-| **[A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures](http://arxiv.org/abs/2506.19676v1)** | 2025-06-24 |  |
-| **[Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager](http://arxiv.org/abs/2506.19652v1)** | 2025-06-24 |  |
-| **[Right Is Not Enough: The Pitfalls of Outcome Supervision in Training LLMs for Math Reasoning](http://arxiv.org/abs/2506.06877v2)** | 2025-06-24 |  |
-| **[A text-to-tabular approach to generate synthetic patient data using LLMs](http://arxiv.org/abs/2412.05153v2)** | 2025-06-24 | <details><summary>12 pa...</summary><p>12 pages, 3 figures. Accepted to the 2025 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2025), 2025, Rende (CS), Calabria, Italy</p></details> |
-| **[Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge](http://arxiv.org/abs/2506.19607v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted to FEVER @ ACL 2025</p></details> |
-| **[KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation](http://arxiv.org/abs/2506.17728v2)** | 2025-06-24 |  |
-| **[PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty](http://arxiv.org/abs/2506.19563v1)** | 2025-06-24 |  |
+| **[Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs](http://arxiv.org/abs/2506.20666v1)** | 2025-06-25 | 11 pages, 3 figures |
+| **[Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges](http://arxiv.org/abs/2506.20598v1)** | 2025-06-25 |  |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs](http://arxiv.org/abs/2506.20544v1)** | 2025-06-25 |  |
+| **[Automatic Demonstration Selection for LLM-based Tabular Data Classification](http://arxiv.org/abs/2506.20451v1)** | 2025-06-25 |  |
+| **[Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary Perception](http://arxiv.org/abs/2502.11677v2)** | 2025-06-25 | ACL2025 Main |
+| **[No Free Lunch: Rethinking Internal Feedback for LLM Reasoning](http://arxiv.org/abs/2506.17219v2)** | 2025-06-25 |  |
+| **[DipSVD: Dual-importance Protected SVD for Efficient LLM Compression](http://arxiv.org/abs/2506.20353v1)** | 2025-06-25 |  |
+| **[LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs](http://arxiv.org/abs/2503.02502v2)** | 2025-06-25 | <details><summary>ACL 2...</summary><p>ACL 2025, our code is available at https://github.com/ZNLP/LADM</p></details> |
+| **[DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs](http://arxiv.org/abs/2506.20194v1)** | 2025-06-25 |  |
+| **[Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU](http://arxiv.org/abs/2506.20187v1)** | 2025-06-25 | 15 pages, 23 figures |
+| **[JsDeObsBench: Measuring and Benchmarking LLMs for JavaScript Deobfuscation](http://arxiv.org/abs/2506.20170v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted by ACM CCS 2025</p></details> |
+| **[Conversational User-AI Intervention: A Study on Prompt Rewriting for Improved LLM Response Generation](http://arxiv.org/abs/2503.16789v2)** | 2025-06-25 | 8 pages, ACL style |
+| **[SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](http://arxiv.org/abs/2506.20167v1)** | 2025-06-25 |  |
+| **[Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners](http://arxiv.org/abs/2503.00845v2)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted to KDD 2025 Research Track</p></details> |
 
 ## Function Call
 | **Title** | **Date** | **Comment** |
