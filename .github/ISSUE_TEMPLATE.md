@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jyyang621/DailyArXiv/) page for a better reading experience and more papers.**
@@ -9,36 +9,36 @@ labels: documentation
 | --- | --- | --- |
 | **[Reward-RAG: Enhancing RAG with Reward Driven Supervision](https://arxiv.org/pdf/2410.03780v1)** | 2024-10-08 |  |
 | **[DoTA-RAG: Dynamic of Thought Aggregation RAG](https://arxiv.org/pdf/2506.12571v1)** | 2025-06-17 | <details><summary>SIGIR...</summary><p>SIGIR LiveRAG 2025 (oral presentation)</p></details> |
-| **[RAG-Reward: Optimizing RAG with Reward Modeling and RLHF](https://arxiv.org/pdf/2501.13264v2)** | 2025-02-19 | Preprint |
 | **[RAGGED: Towards Informed Design of Scalable and Stable RAG Systems](https://arxiv.org/pdf/2403.09040v3)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/neulab/ragged</p></details> |
 | **[Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/pdf/2407.21059v1)** | 2024-08-01 |  |
 | **[RAG-Stack: Co-Optimizing RAG Quality and Performance From the Vector Database Perspective](https://arxiv.org/pdf/2510.20296v1)** | 2025-10-24 |  |
 | **[PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510v1)** | 2024-12-20 |  |
 | **[RAG-Anything: All-in-One RAG Framework](https://arxiv.org/pdf/2510.12323v1)** | 2025-10-15 |  |
-| **[MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563v1)** | 2025-03-19 | NAACL 2025 |
 | **[Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration](https://arxiv.org/pdf/2508.13828v1)** | 2025-08-20 |  |
+| **[MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563v1)** | 2025-03-19 | NAACL 2025 |
 | **[Stop-RAG: Value-Based Retrieval Control for Iterative RAG](https://arxiv.org/pdf/2510.14337v1)** | 2025-10-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 MTI-LLM Workshop</p></details> |
 | **[KARE-RAG: Knowledge-Aware Refinement and Enhancement for RAG](https://arxiv.org/pdf/2506.02503v1)** | 2025-06-04 |  |
-| **[KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs](https://arxiv.org/pdf/2506.09542v2)** | 2025-10-21 |  |
 | **[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/pdf/2507.09477v2)** | 2025-07-17 | submitted to ARR May |
 | **[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/pdf/2410.13085v2)** | 2025-03-04 | ICLR 2025 |
+| **[KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs](https://arxiv.org/pdf/2506.09542v2)** | 2025-10-21 |  |
+| **[FIT-RAG: Black-Box RAG with Factual Information and Token Reduction](https://arxiv.org/pdf/2403.14374v1)** | 2024-03-22 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/pdf/2410.10934v2)** | 2024-10-18 | <details><summary>The p...</summary><p>The project can be found at https://github.com/metauto-ai/agent-as-a-judge. The dataset is released at https://huggingface.co/DEVAI-benchmark</p></details> |
-| **[Agent TCP/IP: An Agent-to-Agent Transaction System](https://arxiv.org/pdf/2501.06243v1)** | 2025-01-14 | 17 pages, 2 figures |
 | **[Inefficiencies of Meta Agents for Agent Design](https://arxiv.org/pdf/2510.06711v1)** | 2025-10-09 |  |
-| **[Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems](https://arxiv.org/pdf/2509.14956v1)** | 2025-09-19 | 25 pages, 12 figures |
+| **[Agent TCP/IP: An Agent-to-Agent Transaction System](https://arxiv.org/pdf/2501.06243v1)** | 2025-01-14 | 17 pages, 2 figures |
 | **[Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/pdf/2508.13167v1)** | 2025-08-20 | 51 pages |
+| **[Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems](https://arxiv.org/pdf/2509.14956v1)** | 2025-09-19 | 25 pages, 12 figures |
 | **[Open Agent Specification (Agent Spec): A Unified Representation for AI Agents](https://arxiv.org/pdf/2510.04173v4)** | 2025-11-10 |  |
 | **[Agent-Testing Agent: A Meta-Agent for Automated Testing and Evaluation of Conversational AI Agents](https://arxiv.org/pdf/2508.17393v1)** | 2025-08-26 |  |
 | **[An agent framework for dynamic agent retraining: Agent academy](https://arxiv.org/pdf/cs/0407025v1)** | 2005-09-17 |  |
 | **[Generalized Principal-Agent Problem with a Learning Agent](https://arxiv.org/pdf/2402.09721v7)** | 2025-10-22 | <details><summary>A sho...</summary><p>A short version of this work appeared on ICLR 2025 (spotlight). This full version has been accepted by Quantitative Economics</p></details> |
 | **[Tool-to-Agent Retrieval: Bridging Tools and Agents for Scalable LLM Multi-Agent Systems](https://arxiv.org/pdf/2511.01854v2)** | 2025-11-05 |  |
 | **[PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows](https://arxiv.org/pdf/2508.02866v3)** | 2025-08-21 | <details><summary>Paper...</summary><p>Paper accepted for publication in the Proceedings of the 2025 IEEE 21st International Conference on e-Science. Cite it as: R. Souza, A. Gueroudji, S. DeWitt, D. Rosendo, T. Ghosal, R. Ross, P. Balaprakash, R. F. da Silva, "PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows," IEEE International Conference on e-Science, Chicago, IL, USA, 2025</p></details> |
-| **[Inverse Attention Agents for Multi-Agent Systems](https://arxiv.org/pdf/2410.21794v2)** | 2025-04-09 |  |
 | **[Build Agent Advocates, Not Platform Agents](https://arxiv.org/pdf/2505.04345v2)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 position paper track</p></details> |
+| **[Inverse Attention Agents for Multi-Agent Systems](https://arxiv.org/pdf/2410.21794v2)** | 2025-04-09 |  |
 | **[LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem](https://arxiv.org/pdf/2312.03815v2)** | 2023-12-12 | 35 pages, 4 figures |
 | **[Agent-Oriented Planning in Multi-Agent Systems](https://arxiv.org/pdf/2410.02189v2)** | 2025-03-12 | <details><summary>Accep...</summary><p>Accepted by ICLR'2025</p></details> |
 
@@ -66,14 +66,14 @@ labels: documentation
 | --- | --- | --- |
 | **[SharedRep-RLHF: A Shared Representation Approach to RLHF with Diverse Preferences](https://arxiv.org/pdf/2509.03672v1)** | 2025-09-05 |  |
 | **[RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/pdf/2405.07863v3)** | 2024-11-13 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (09/2024)</p></details> |
-| **[Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715v2)** | 2024-10-28 |  |
 | **[Mapping Social Choice Theory to RLHF](https://arxiv.org/pdf/2404.13038v1)** | 2024-04-22 |  |
+| **[Measuring memorization in RLHF for code completion](https://arxiv.org/pdf/2406.11715v2)** | 2024-10-28 |  |
 | **[HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)** | 2024-10-03 |  |
 | **[Reward Model Overoptimisation in Iterated RLHF](https://arxiv.org/pdf/2505.18126v2)** | 2025-09-30 | <details><summary>24 pa...</summary><p>24 pages, 17 figures, 6 tables</p></details> |
 | **[LLM Misalignment via Adversarial RLHF Platforms](https://arxiv.org/pdf/2503.03039v1)** | 2025-03-06 |  |
+| **[Enhancing RLHF with Human Gaze Modeling](https://arxiv.org/pdf/2507.09016v2)** | 2025-07-17 |  |
 | **[Understanding and Alleviating Memory Consumption in RLHF for LLMs](https://arxiv.org/pdf/2410.15651v1)** | 2024-10-22 |  |
 | **[Accelerating RLHF Training with Reward Variance Increase](https://arxiv.org/pdf/2505.23247v2)** | 2025-06-18 |  |
-| **[Enhancing RLHF with Human Gaze Modeling](https://arxiv.org/pdf/2507.09016v2)** | 2025-07-17 |  |
 | **[An Adaptive Placement and Parallelism Framework for Accelerating RLHF Training](https://arxiv.org/pdf/2312.11819v3)** | 2024-10-15 |  |
 | **[On a Connection Between Imitation Learning and RLHF](https://arxiv.org/pdf/2503.05079v1)** | 2025-03-10 | ICLR 2025 |
 | **[G-Core: A Simple, Scalable and Balanced RLHF Trainer](https://arxiv.org/pdf/2507.22789v2)** | 2025-08-01 | <details><summary>I hav...</summary><p>I haven't received company approval yet, and I uploaded it by mistake</p></details> |
