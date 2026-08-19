@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jyyang621-dailyarxiv-badge.png)](https://mseep.ai/app/jyyang621-dailyarxiv)
+
 # Daily Papers
 The project automatically fetches the latest papers from arXiv based on keywords.
 
