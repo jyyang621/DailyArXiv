@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2026
+title: Latest 15 Papers - November 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jyyang621/DailyArXiv/) page for a better reading experience and more papers.**
@@ -7,11 +7,14 @@ labels: documentation
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference](https://arxiv.org/abs/2611.19253v1)** | 2026-11-14 |  |
+| **[jXBW: A Compressed Index Enabling Structure-Aware JSONL Retrieval for Structured RAG](https://arxiv.org/abs/2508.12536v5)** | 2026-11-14 | <details><summary>Full ...</summary><p>Full version of a short paper accepted at IEEE BigData 2026</p></details> |
 | **[RAG-FGO: Dynamic Optimization of Query-Rewriting Agents for Generative RAG](https://arxiv.org/abs/2611.17788v1)** | 2026-11-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 8 tables</p></details> |
 | **[SA-RAG: Structuring Noisy Conversations for Retrieval-Augmented Generation](https://arxiv.org/abs/2605.24366v2)** | 2026-11-13 |  |
 | **[Prompt-Based Abstention Fails Under Misleading Context: A Controlled Study of Small Frozen RAG Models](https://arxiv.org/abs/2608.22228v2)** | 2026-11-12 | <details><summary>19 pa...</summary><p>19 pages. Published in AACL-IJCNLP 2026 (Main Conference). Code and data: https://github.com/andre44s/grab-rag</p></details> |
 | **[RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication](https://arxiv.org/abs/2611.16425v1)** | 2026-11-12 |  |
 | **[Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition](https://arxiv.org/abs/2611.15538v1)** | 2026-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[VTG-RAG: Long-Video Reasoning via Query-Adaptive Coarse-to-Fine Sampling and Temporal Graph Retrieval](https://arxiv.org/abs/2611.18746v1)** | 2026-11-11 |  |
 | **[Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924v1)** | 2026-11-11 | <details><summary>Accep...</summary><p>Accepted to the 14th International Japan-Africa Conference on Electronics, Communications and Computations (JAC-ECC 2026).6 pages, 3 figures, 6 tables</p></details> |
 | **[Adaptive Retrieval, Selective Answers: Evaluating Conformal Factuality in Agentic RAG](https://arxiv.org/abs/2610.34872v2)** | 2026-11-10 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 5 tables. Code: https://github.com/aimalrehman92/conformal-rag-agentic</p></details> |
 | **[Isolation Is Not Confidentiality: Security Boundaries of Geometric Access Control in RAG](https://arxiv.org/abs/2611.14061v1)** | 2026-11-10 |  |
@@ -19,28 +22,25 @@ labels: documentation
 | **[ARMOR: Adaptive Curriculum Meta-Learning for Noise-Robust RAG Reasoning](https://arxiv.org/abs/2611.11771v1)** | 2026-11-09 |  |
 | **[PCG-RAG: Progressive Compositional Grounding for Retrieval-Augmented Generation in Complex Web Question Answering](https://arxiv.org/abs/2611.11113v1)** | 2026-11-08 |  |
 | **[MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs](https://arxiv.org/abs/2611.10657v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 main conference</p></details> |
-| **[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371v4)** | 2026-11-07 |  |
-| **[PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns](https://arxiv.org/abs/2611.10477v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 46 pages. Code: https://github.com/EllenYiGe/PatternBloom</p></details> |
-| **[Towards an Autonomous AI Steward for Large-Scale Physics Experiments: Integrating Causal Diagnostics, RAG, and Conformal Prediction](https://arxiv.org/abs/2611.09298v1)** | 2026-11-06 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 2nd International Conference on AI for Science (AI4Sci2026), 5-9 October 2026, Mainz, Germany (PoS)</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Imitation Bootstrapped Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2611.18543v1)** | 2026-11-13 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Code, videos and results: https://zhanghutony.github.io/ibmarl/. A preliminary version appeared at the PhysCollaBot Workshop at IROS 2026</p></details> |
-| **[ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL](https://arxiv.org/abs/2611.18533v1)** | 2026-11-13 |  |
-| **[OpenLayout: An Open and Agentic-Driven Platform for Holistic VLSI Physical Design and Benchmarking](https://arxiv.org/abs/2611.18517v1)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted by ICCAD2026</p></details> |
-| **[Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](https://arxiv.org/abs/2611.18514v1)** | 2026-11-13 |  |
-| **[Agentic induction of common data elements and information extraction from sarcoma case report abstracts](https://arxiv.org/abs/2611.18506v1)** | 2026-11-13 |  |
-| **[Agentic AI for Discovering Fault-Tolerant Quantum Circuits](https://arxiv.org/abs/2611.18504v1)** | 2026-11-13 | 20 pages, 6 figures |
-| **[CastWorld: Benchmarking Context-Aware Agentic Time Series Forecasting Beyond Predictive Accuracy](https://arxiv.org/abs/2611.15262v2)** | 2026-11-13 |  |
-| **[TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents](https://arxiv.org/abs/2611.18493v1)** | 2026-11-13 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Code and saved results: https://github.com/tokencraftdata/agentic-compliance</p></details> |
-| **[From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration](https://arxiv.org/abs/2611.18484v1)** | 2026-11-13 | <details><summary>34 pa...</summary><p>34 pages, 6 figures, 3 tables. Accepted for publication in Annual Review of Control, Robotics, and Autonomous Systems, Volume 10 (2027)</p></details> |
-| **[QVal: Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](https://arxiv.org/abs/2606.32034v2)** | 2026-11-13 | <details><summary>10 pa...</summary><p>10 pages, 6 figures in main text; 67 pages, 13 figures with appendix</p></details> |
-| **[Efficient Test-Time Adaptation through Human-Agent Interaction](https://arxiv.org/abs/2609.04141v2)** | 2026-11-13 |  |
-| **[Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation](https://arxiv.org/abs/2611.18471v1)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 Workshop on Who Verifies the Agents? Toward Reliable Agent Development</p></details> |
-| **[HerAgent: A Block-Level Checkpointing Harness for Coding-Agent Environment Setup](https://arxiv.org/abs/2611.18443v1)** | 2026-11-13 | 12 pages |
-| **[SPECMEM: Accelerating Agentic Tool Calling via Live Memory Management](https://arxiv.org/abs/2610.31840v2)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted to Findings of EACL 2027</p></details> |
-| **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://arxiv.org/abs/2611.18397v1)** | 2026-11-13 |  |
+| **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/abs/2611.21605v1)** | 2026-11-16 | <details><summary>74 pa...</summary><p>74 pages, 11 figures, 26 tables. Code: https://github.com/huawei-lin/ViRA</p></details> |
+| **[Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent](https://arxiv.org/abs/2611.21598v1)** | 2026-11-16 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 23 tables. Code and data: https://github.com/blasvicco/ena/tree/v1</p></details> |
+| **[When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents](https://arxiv.org/abs/2611.21577v1)** | 2026-11-16 |  |
+| **[SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection](https://arxiv.org/abs/2611.07222v2)** | 2026-11-16 | <details><summary>An ea...</summary><p>An earlier version was accepted at the Third Workshop on Agents in the Wild: Safety, Security, and Beyond (NeurIPS 2026). 16 pages. v2 updates the AgentDojo grid and stress-test results with the released SDK, spillway-guard 1.0.0 (PyPI). Project page: https://saintmachines.github.io/spillway/ Code and per-cell results: https://github.com/saintmachines/spillway</p></details> |
+| **[SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541v1)** | 2026-11-16 | <details><summary>28 pa...</summary><p>28 pages, 7 figures. Code and leaderboard: https://github.com/Btwestyo/sciresearch-eval</p></details> |
+| **[Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety](https://arxiv.org/abs/2611.21520v1)** | 2026-11-16 |  |
+| **[Beyond Leaderboard Ranks: Selecting Software Engineering Agents Under Budget Constraints](https://arxiv.org/abs/2611.21515v1)** | 2026-11-16 |  |
+| **[Is This Code Mine? Student Ownership When AI Agents Write the Spec and the Code](https://arxiv.org/abs/2611.21501v1)** | 2026-11-16 | <details><summary>Submi...</summary><p>Submitted to ICSE SEET; 12 pages</p></details> |
+| **[Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation](https://arxiv.org/abs/2611.21488v1)** | 2026-11-16 |  |
+| **[Singularity-Bench: Can Agents Build Agents?](https://arxiv.org/abs/2611.16591v2)** | 2026-11-16 |  |
+| **[Efficient Modeling of Multi-Agent Systems via Structure-Aware Physics-Informed Learning](https://arxiv.org/abs/2611.21404v1)** | 2026-11-16 |  |
+| **[A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents](https://arxiv.org/abs/2611.21376v1)** | 2026-11-16 | <details><summary>Prepr...</summary><p>Preprint. 32 pages, 5 figures</p></details> |
+| **[WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://arxiv.org/abs/2611.21373v1)** | 2026-11-16 |  |
+| **[Turing Agent: Agentic Formal Verification for Mathematical Research](https://arxiv.org/abs/2611.21299v1)** | 2026-11-16 |  |
+| **[Agent-Native by Design: A Programming Language for Agentic Applications](https://arxiv.org/abs/2611.21298v1)** | 2026-11-16 |  |
 
 ## SFT
 | **Title** | **Date** | **Comment** |
@@ -83,25 +83,26 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](https://arxiv.org/abs/2611.17332v2)** | 2026-11-13 |  |
-| **[From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance](https://arxiv.org/abs/2609.06383v2)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted by EACL 2027</p></details> |
-| **[Mutable Inference: Architecting LLM Accelerators for Inference-Time Learning](https://arxiv.org/abs/2611.18523v1)** | 2026-11-13 |  |
-| **[Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](https://arxiv.org/abs/2611.18514v1)** | 2026-11-13 |  |
-| **[QVal: Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](https://arxiv.org/abs/2606.32034v2)** | 2026-11-13 | <details><summary>10 pa...</summary><p>10 pages, 6 figures in main text; 67 pages, 13 figures with appendix</p></details> |
-| **[Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation](https://arxiv.org/abs/2611.18471v1)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 Workshop on Who Verifies the Agents? Toward Reliable Agent Development</p></details> |
-| **[LECAT: Measuring LLM Category Learning from Pretraining Data](https://arxiv.org/abs/2611.18419v1)** | 2026-11-13 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 8 tables</p></details> |
-| **[VelServe: Taming Decode Jitters in LLM Inference with Tail-Calibrated Scheduling](https://arxiv.org/abs/2611.18392v1)** | 2026-11-13 |  |
-| **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](https://arxiv.org/abs/2607.07738v3)** | 2026-11-13 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Published in the proceedings of the 23rd International Conference on Applied Computing 2026 (AC 2026), Lisbon, 24-26 October 2026. Best Paper Award</p></details> |
-| **[Dancing Tokens on the Vocabulary Network from LLM Generation](https://arxiv.org/abs/2611.18248v1)** | 2026-11-13 | 24 pages, 6 figures |
-| **[Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots](https://arxiv.org/abs/2611.18230v1)** | 2026-11-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Version accepted for publication in: Value Engineering in Artificial Intelligence: Fourth Inter-national Workshop, VALE 2026, Bremen, Germany, August 15, 2026, Proceedings. Work-shop affiliated with 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)</p></details> |
-| **[ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176v1)** | 2026-11-13 | <details><summary>Techn...</summary><p>Technical report. 25 pages, 7 figures. Code: https://github.com/Embodied-Self-Improvement/ESI</p></details> |
-| **[Who Should Be on the Panel? Task-Conditioned Persona Selection for LLM Trading Agents](https://arxiv.org/abs/2611.18150v1)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted at the AI4F workshop, ICAIF 2026. Code: https://github.com/tinyrolls/FinPanel</p></details> |
-| **[CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies](https://arxiv.org/abs/2606.16613v2)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Evaluations and Datasets Track)</p></details> |
-| **[Forget the Lineage: Forward-Secure, Lineage-Complete Cryptographic Erasure for LLM-Agent Memory](https://arxiv.org/abs/2611.18133v1)** | 2026-11-13 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. Submitted to the Journal of Information Security and Applications. Code and LLM-call logs: https://github.com/yulliwasameur/linera (archived at https://doi.org/10.5281/zenodo.24166476)</p></details> |
+| **[Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests](https://arxiv.org/abs/2611.21545v1)** | 2026-11-16 | 21 pages |
+| **[Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse](https://arxiv.org/abs/2611.21535v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted for publication in Latin American Conference on Informatics (CLEI 2026)</p></details> |
+| **[Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback](https://arxiv.org/abs/2602.12612v3)** | 2026-11-16 | NeurIPS 2026 |
+| **[Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers](https://arxiv.org/abs/2611.21449v1)** | 2026-11-16 |  |
+| **[Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs](https://arxiv.org/abs/2611.21422v1)** | 2026-11-16 |  |
+| **[Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next](https://arxiv.org/abs/2611.21408v1)** | 2026-11-16 | <details><summary>48 pa...</summary><p>48 pages, 5 figures. Code, data pointers and pre-registrations: https://github.com/JaviMaligno/latent-gap-ideas</p></details> |
+| **[A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents](https://arxiv.org/abs/2611.21376v1)** | 2026-11-16 | <details><summary>Prepr...</summary><p>Preprint. 32 pages, 5 figures</p></details> |
+| **[Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine](https://arxiv.org/abs/2611.08684v2)** | 2026-11-16 | <details><summary>Withd...</summary><p>Withdrawn pending internal content review and approval by the authors' institution</p></details> |
+| **[Can AI Mature a Model's Geometry? Training-Free Weight Baking in LLMs](https://arxiv.org/abs/2611.21310v1)** | 2026-11-16 |  |
+| **[Style over Substance? Linguistic Bias in LLM-based Peer Review](https://arxiv.org/abs/2610.35254v3)** | 2026-11-16 |  |
+| **[Externalized CPDAG Summaries Improve LLM Causal Deduction](https://arxiv.org/abs/2609.31071v2)** | 2026-11-16 | <details><summary>28 pa...</summary><p>28 pages, 2 figures. Accepted at NeurIPS 2026</p></details> |
+| **[Mining Workflow Graphs for Black-Box Boundary Testing of Conversational LLM Agents](https://arxiv.org/abs/2607.06873v2)** | 2026-11-16 |  |
+| **[Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking](https://arxiv.org/abs/2604.11581v8)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 14 pages, 7 figures. SI Appendix: https://solomonmg.github.io/pdf/totalevalerror_si.pdf</p></details> |
+| **[Validating LLM-Based Essay Scorers: A Comparative Analysis in Critical Online Reasoning in Medical Education](https://arxiv.org/abs/2611.21208v1)** | 2026-11-16 |  |
+| **[The SIMPLE Law for Energy Cost of LLM Inference](https://arxiv.org/abs/2611.03330v2)** | 2026-11-16 | <details><summary>Under...</summary><p>Under review. 19 pages, 8 figures, 9 tables</p></details> |
 
 ## Function Call
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification](https://arxiv.org/abs/2512.20872v3)** | 2026-11-14 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at IEEE BigData 2026. 14 pages</p></details> |
 | **[BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions](https://arxiv.org/abs/2406.15877v5)** | 2026-11-13 | <details><summary>Accpe...</summary><p>Accpeted at ICLR 2025 (Oral), built with love by the BigCode community :)</p></details> |
 | **[Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics](https://arxiv.org/abs/2611.17549v1)** | 2026-11-12 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. This is an extended version of our paper accepted at the ICRA 2026 Workshop on Multimodal Embodied Interaction in Robots (MEI-2026), Vienna, Austria</p></details> |
 | **[Control-Flow Profiling for Workload Representativeness](https://arxiv.org/abs/2611.16889v1)** | 2026-11-12 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 5 tables</p></details> |
@@ -116,7 +117,6 @@ labels: documentation
 | **[What Breaks and What Comes Back: Capability Damage and Recovery in Depth-Pruned Small Language Models](https://arxiv.org/abs/2611.00877v1)** | 2026-10-31 | 17 pages, 6 figures |
 | **[One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows](https://arxiv.org/abs/2608.19741v5)** | 2026-10-31 |  |
 | **[Uncertainty Quantification for LLM Function-Calling](https://arxiv.org/abs/2604.22985v2)** | 2026-10-30 |  |
-| **[Switchcraft: AI Model Router for Agentic Tool Calling](https://arxiv.org/abs/2605.07112v2)** | 2026-10-30 |  |
 
 ## LLM Tabular
 | **Title** | **Date** | **Comment** |
